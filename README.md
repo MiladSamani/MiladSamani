@@ -5,6 +5,8 @@ From the age of fifteen, I became interested in the world of the web and began t
 I started programming with PHP and JavaScript , now I am working with Golang Programming language.
 
 
-
+if (isAwesome){
+      return true
+    }
 
 
