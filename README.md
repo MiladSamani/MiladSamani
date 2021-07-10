@@ -4,7 +4,7 @@ From the age of fifteen, I became interested in the world of the web and began t
 I am a Backend Developer! and my favorite language is Golang since 2020 . I have experience with Frontend development too. I can summarize my life with the following code:
 
 ```golang
-go inLove([]string{"golang","JS"})
+go inLove([]string{"Go Programming language","JS"})
 go research([]string{"Network Services", "Cloud"})
 
 for aLive() == true {
