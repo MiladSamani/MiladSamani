@@ -4,7 +4,6 @@ I am a Backend Developer! and my favorite language is Golang since 2020 . I have
 
 ```golang
 go inLove([]string{"Go Programming language","JavaScript"})
-go research([]string{"Network Services", "Cloud"})
 for aLive() == true {
   eat()
   code()
