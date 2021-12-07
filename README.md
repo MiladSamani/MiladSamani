@@ -1,6 +1,5 @@
-
-I’m a software developer with a bachelor’s degree in information technology engineering.
-I am a Backend Developer! and my favorite language is Golang since 2020 . I have experience with Frontend development too. I can summarize my life with the following code:
+I hold a bachelor degree in software engineering, I'm a graduated from shiraz university, I'm software developer.
+I have experience with frontend and backend development. I can summarize my life with the following code:
 
 ```golang
 go inLove([]string{"Go Programming language","JavaScript"})
