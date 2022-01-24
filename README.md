@@ -5,7 +5,6 @@ go inLove([]string{"Golang","React","Laravel"})
 for aLive() == true {
   eat()
   code()
-  gym()
   sleep()
 }
 ```
