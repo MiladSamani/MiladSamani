@@ -4,6 +4,7 @@ go inLove([]string{"Golang" , "React"})
 for aLive() == true {
   eat()
   code()
+  gym()
   sleep()
 }
 ```
