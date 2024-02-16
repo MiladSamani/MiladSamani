@@ -1,4 +1,8 @@
-I’m a software developer with a bachelor’s degree in information technology engineering. From the age of fifteen, I became interested in the world of the web and began to create Persian blog templates & I also have experience in the web development! I am a Backend Developer! and my favorite language is Golang since 2020 . I have experience with Frontend development too. I can summarize my life with the following code:
+•Full-stack developer with 3+ years of professional experience designing, building and managing end-to-end web applications. 
+•Proficient full-stack developer leveraging core technologies like Golang, JavaScript, React, to build responsive UIs and robust back-end systems.
+•Extensive experience in software architecture, database management, and delivering solutions from concept to launch. 
+•Excited to leverage skills and knowledge to tackle complex challenges and deliver cutting-edge, end-to-end solutions...
+I can summarize my life with the following code:
 ```golang
 go inLove([]string{"Golang" , "JavaScript"})
 for aLive() == true {
