@@ -12,4 +12,4 @@ for aLive() == true {
   sleep()
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladSamani&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladSamani&hide_progress=false)
