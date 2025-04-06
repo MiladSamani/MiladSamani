@@ -4,7 +4,7 @@
 •Excited to leverage skills and knowledge to tackle complex challenges and deliver cutting-edge, end-to-end solutions.
 I can summarize my life with the following code:
 ```golang
-go inLove([]string{"Golang" , "JavaScript"})
+go inLove([]string{"Golang" , "TypeScript"})
 for aLive() == true {
   eat()
   code()
